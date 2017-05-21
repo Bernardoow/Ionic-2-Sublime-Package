@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-menu>
+
+</ion-menu>
+]]></content>
+	<tabTrigger>ion-menu</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

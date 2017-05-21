@@ -24,6 +24,7 @@
 *. Label
 *. List
 *. List-Header
+*. Menu
 *. Row
 *. Scroll
 *. Thumbnail
