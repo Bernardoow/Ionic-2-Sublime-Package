@@ -10,6 +10,7 @@
 *. Checkbox
 *. Datetime
 *. Fab
+*. Fab-List
 *. Icon
 *. Label
 *. Scroll

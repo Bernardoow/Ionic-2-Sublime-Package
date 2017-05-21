@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ion-fab-list></ion-fab-list>
+]]></content>
+	<tabTrigger>ion-fab-list</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
