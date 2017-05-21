@@ -9,6 +9,7 @@
 *. Card Content
 *. Checkbox
 *. Col
+*. Content
 *. Datetime
 *. Fab
 *. Fab-List
@@ -28,3 +29,5 @@
 
 *. item-left
 *. item-right
+*. color
+
