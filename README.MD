@@ -3,6 +3,7 @@
 ## Snippets
 
 *. Badge
+*. Card
 *. Scroll
 
 
