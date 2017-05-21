@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-fab>
+
+</ion-fab>
+]]></content>
+	<tabTrigger>ion-fab</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
