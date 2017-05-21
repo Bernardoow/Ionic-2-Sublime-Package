@@ -5,6 +5,7 @@
 *. Badge
 *. Card
 *. Card Header
+*. Card Content
 *. Scroll
 
 
