@@ -14,6 +14,7 @@
 *. Fab-List
 *. Grid
 *. Icon
+*. Input
 *. Item
 *. Label
 *. List

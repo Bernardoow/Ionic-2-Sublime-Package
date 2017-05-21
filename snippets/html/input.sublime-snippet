@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ion-input type="text" ></ion-input>
+]]></content>
+	<tabTrigger>ion-input</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
