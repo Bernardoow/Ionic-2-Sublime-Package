@@ -29,6 +29,7 @@
 *. Row
 *. Scroll
 *. Thumbnail
+*. Title
 *. Toolbar
 
 
