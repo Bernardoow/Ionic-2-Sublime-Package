@@ -2,6 +2,7 @@
 
 ## Snippets
 
+*. Avatar
 *. Badge
 *. Card
 *. Card Header

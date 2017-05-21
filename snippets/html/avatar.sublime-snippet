@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-avatar>
+
+</ion-avatar>
+]]></content>
+	<tabTrigger>ion-avatar</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
