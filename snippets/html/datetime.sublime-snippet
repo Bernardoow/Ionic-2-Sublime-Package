@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ion-datetime displayFormat="h:mm A"></ion-datetime>
+]]></content>
+	<tabTrigger>ion-datetime</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
