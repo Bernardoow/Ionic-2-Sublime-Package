@@ -31,6 +31,7 @@
 *. Range
 *. Row
 *. Scroll
+*. Searchbar
 *. Thumbnail
 *. Title
 *. Toolbar
