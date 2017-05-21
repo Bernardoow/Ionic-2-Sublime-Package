@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-radio>
+
+</ion-radio>
+]]></content>
+	<tabTrigger>ion-radio</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

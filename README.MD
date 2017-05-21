@@ -27,6 +27,7 @@
 *. List-Header
 *. Menu
 *. Nav
+*. Radio
 *. Row
 *. Scroll
 *. Thumbnail
@@ -44,4 +45,5 @@
 *. ion-button
 *. side
 *. ion-item 
+*. radio-group
 
