@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-list-header>
+
+</ion-list-header>		
+]]></content>
+	<tabTrigger>ion-list-header</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
