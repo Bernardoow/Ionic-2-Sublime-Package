@@ -19,6 +19,7 @@
 *. Item
 *. Item-Group
 *. Item-Divider
+*. Item-Options
 *. Item-Sliding
 *. Label
 *. List
@@ -34,4 +35,6 @@
 *. item-left
 *. item-right
 *. color
+*. ion-button
+*. side
 
