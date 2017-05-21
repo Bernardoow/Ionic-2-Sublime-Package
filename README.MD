@@ -18,6 +18,7 @@
 *. Input
 *. Item
 *. Item-Group
+*. Item-Divider
 *. Label
 *. List
 *. Row
