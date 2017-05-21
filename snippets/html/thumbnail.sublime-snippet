@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-thumbnail>
+
+</ion-thumbnail>
+]]></content>
+	<tabTrigger>ion-thumbnail</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

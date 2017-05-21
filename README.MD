@@ -26,6 +26,7 @@
 *. List-Header
 *. Row
 *. Scroll
+*. Thumbnail
 
 
 
