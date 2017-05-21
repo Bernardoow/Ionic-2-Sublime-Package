@@ -19,6 +19,7 @@
 *. Item
 *. Item-Group
 *. Item-Divider
+*. Item-Sliding
 *. Label
 *. List
 *. List-Header
