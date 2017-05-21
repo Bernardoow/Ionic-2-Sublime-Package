@@ -10,6 +10,7 @@
 *. Checkbox
 *. Fab
 *. Icon
+*. Label
 *. Scroll
 
 
