@@ -8,6 +8,7 @@
 *. Card Header
 *. Card Content
 *. Fab
+*. Icon
 *. Scroll
 
 
