@@ -34,6 +34,7 @@
 *. Searchbar
 *. Segment
 *. Segment-Button
+*. Select
 *. Thumbnail
 *. Title
 *. Toolbar
