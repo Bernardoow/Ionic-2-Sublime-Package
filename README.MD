@@ -32,6 +32,8 @@
 *. Row
 *. Scroll
 *. Searchbar
+*. Segment
+*. Segment-Button
 *. Thumbnail
 *. Title
 *. Toolbar
@@ -51,3 +53,5 @@
 *. range-left 
 *. small
 *. name
+*. padding
+
