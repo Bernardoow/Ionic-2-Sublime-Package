@@ -5,8 +5,8 @@
 *. Avatar
 *. Badge
 *. Card
-*. Card Header
-*. Card Content
+*. Card-Header
+*. Card-Content
 *. Checkbox
 *. Col
 *. Content
@@ -17,6 +17,7 @@
 *. Icon
 *. Input
 *. Item
+*. Item-Group
 *. Label
 *. List
 *. Row
