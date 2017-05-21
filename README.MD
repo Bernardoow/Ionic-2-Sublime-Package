@@ -8,6 +8,7 @@
 *. Card Header
 *. Card Content
 *. Checkbox
+*. Col
 *. Datetime
 *. Fab
 *. Fab-List
