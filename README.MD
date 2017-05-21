@@ -28,6 +28,7 @@
 *. Menu
 *. Nav
 *. Radio
+*. Range
 *. Row
 *. Scroll
 *. Thumbnail
@@ -46,4 +47,6 @@
 *. side
 *. ion-item 
 *. radio-group
-
+*. range-left 
+*. small
+*. name
