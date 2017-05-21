@@ -26,6 +26,7 @@
 *. List
 *. List-Header
 *. Menu
+*. Nav
 *. Row
 *. Scroll
 *. Thumbnail
@@ -42,4 +43,5 @@
 *. color
 *. ion-button
 *. side
+*. ion-item 
 
