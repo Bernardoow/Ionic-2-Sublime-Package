@@ -27,6 +27,7 @@
 *. List-Header
 *. Menu
 *. Nav
+*. Option
 *. Radio
 *. Range
 *. Row
