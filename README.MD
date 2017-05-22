@@ -8,6 +8,7 @@
 *. Card-Header
 *. Card-Content
 *. Checkbox
+*. Chip
 *. Col
 *. Content
 *. Datetime
@@ -51,16 +52,18 @@
 
 ##TODO
 
+*. ion-button
+*. ion-item 
 *. item-left
 *. item-right
 *. color
-*. ion-button
 *. side
-*. ion-item 
 *. radio-group
 *. range-left 
 *. small
 *. name
 *. padding
 *. pager
-
+*. icon-only
+*. end
+*. start
