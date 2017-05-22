@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-toggle>
+
+</ion-toggle>
+]]></content>
+	<tabTrigger>ion-toggle</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

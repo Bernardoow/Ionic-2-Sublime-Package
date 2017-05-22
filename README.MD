@@ -43,6 +43,7 @@
 *. Thumbnail
 *. Title
 *. Toolbar
+*. Toogle
 
 
 
