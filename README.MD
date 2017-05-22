@@ -32,6 +32,7 @@
 *. Option
 *. Radio
 *. Range
+*. Refresher
 *. Row
 *. Scroll
 *. Searchbar

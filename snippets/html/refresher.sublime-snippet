@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-refresher>
+
+</ion-refresher>
+]]></content>
+	<tabTrigger>ion-refresher</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
