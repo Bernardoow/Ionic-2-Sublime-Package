@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-split-pane>
+
+</ion-split-pane>
+]]></content>
+	<tabTrigger>ion-split-pane</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

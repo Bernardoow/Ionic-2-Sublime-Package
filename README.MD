@@ -43,6 +43,7 @@
 *. Slide
 *. Slides
 *. Spinner
+*. Split-Pane
 *. Tab
 *. Tabs
 *. Thumbnail
