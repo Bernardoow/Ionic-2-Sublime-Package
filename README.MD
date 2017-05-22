@@ -13,6 +13,7 @@
 *. Datetime
 *. Fab
 *. Fab-List
+*. Footer
 *. Grid
 *. Header
 *. Icon

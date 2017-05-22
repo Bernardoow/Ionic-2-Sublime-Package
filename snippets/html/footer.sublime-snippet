@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-footer>
+
+</ion-footer>
+]]></content>
+	<tabTrigger>ion-footer</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
