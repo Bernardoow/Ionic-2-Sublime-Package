@@ -19,6 +19,7 @@
 *. Header
 *. Icon
 *. Infinite-Scroll
+*. Infinite-Scroll-Content
 *. Input
 *. Item
 *. Item-Group

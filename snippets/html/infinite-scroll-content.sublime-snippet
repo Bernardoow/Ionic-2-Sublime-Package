@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-infinite-scroll-content>
+
+</ion-infinite-scroll-content>
+]]></content>
+	<tabTrigger>ion-infinite-scroll-content</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
