@@ -42,6 +42,7 @@
 *. Select
 *. Slide
 *. Slides
+*. Spinner
 *. Tab
 *. Tabs
 *. Thumbnail
