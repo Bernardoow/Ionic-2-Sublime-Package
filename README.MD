@@ -36,6 +36,7 @@
 *. Segment
 *. Segment-Button
 *. Select
+*. Slides
 *. Thumbnail
 *. Title
 *. Toolbar
@@ -56,4 +57,5 @@
 *. small
 *. name
 *. padding
+*. pager
 

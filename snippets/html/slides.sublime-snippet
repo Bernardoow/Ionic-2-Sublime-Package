@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ion-slides>
+
+</ion-slides>
+]]></content>
+	<tabTrigger>ion-slides</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
