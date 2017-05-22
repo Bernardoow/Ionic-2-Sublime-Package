@@ -1,6 +1,5 @@
 <snippet>
-	<content><![CDATA[ion-icon name="">
-</ion-icon>
+	<content><![CDATA[ion-icon name=""></ion-icon>
 ]]></content>
 	<tabTrigger>ion-icon</tabTrigger>
 	<scope>text.html</scope>

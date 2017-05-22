@@ -3,6 +3,6 @@
 
 </ion-item>
 ]]></content>
-	<tabTrigger>ion-card</tabTrigger>
+	<tabTrigger>ion-item</tabTrigger>
 	<scope>text.html</scope>
 </snippet>
