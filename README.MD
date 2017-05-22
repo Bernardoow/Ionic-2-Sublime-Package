@@ -18,6 +18,7 @@
 *. Grid
 *. Header
 *. Icon
+*. Infinite-Scroll
 *. Input
 *. Item
 *. Item-Group
