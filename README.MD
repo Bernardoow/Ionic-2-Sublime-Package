@@ -33,6 +33,7 @@
 *. Radio
 *. Range
 *. Refresher
+*. Refresher-Content
 *. Row
 *. Scroll
 *. Searchbar
