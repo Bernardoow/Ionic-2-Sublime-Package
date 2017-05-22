@@ -36,6 +36,7 @@
 *. Segment
 *. Segment-Button
 *. Select
+*. Slide
 *. Slides
 *. Thumbnail
 *. Title
