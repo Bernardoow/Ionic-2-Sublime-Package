@@ -38,6 +38,7 @@
 *. Select
 *. Slide
 *. Slides
+*. Tab
 *. Thumbnail
 *. Title
 *. Toolbar
