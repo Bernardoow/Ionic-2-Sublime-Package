@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[float-left]]></content>
+	<tabTrigger>float-left</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

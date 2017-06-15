@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[float-start]]></content>
+	<tabTrigger>float-start</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
