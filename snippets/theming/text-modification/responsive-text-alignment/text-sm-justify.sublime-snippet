@@ -1,0 +1,7 @@
+
+<snippet>
+	<content><![CDATA[text-sm-justify]]></content>
+	<tabTrigger>text-sm-justify</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
+
