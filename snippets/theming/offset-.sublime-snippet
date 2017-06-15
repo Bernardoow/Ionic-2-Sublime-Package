@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[offset-]]></content>
+	<tabTrigger>offset-</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

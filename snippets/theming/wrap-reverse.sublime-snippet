@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[wrap-reverse]]></content>
+	<tabTrigger>wrap-reverse</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

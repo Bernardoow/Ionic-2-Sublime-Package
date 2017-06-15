@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[justify-content-start]]></content>
+	<tabTrigger>justify-content-start</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

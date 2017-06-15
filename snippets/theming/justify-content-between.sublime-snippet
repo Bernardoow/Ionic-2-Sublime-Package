@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[justify-content-between]]></content>
+	<tabTrigger>justify-content-between</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[align-self-start]]></content>
+	<tabTrigger>align-self-start</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[justify-content-around]]></content>
+	<tabTrigger>justify-content-around</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

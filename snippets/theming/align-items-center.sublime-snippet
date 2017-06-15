@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[align-items-center]]></content>
+	<tabTrigger>align-items-center</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

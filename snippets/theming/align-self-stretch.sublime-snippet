@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[align-self-stretch]]></content>
+	<tabTrigger>align-self-stretch</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[col-auto]]></content>
+	<tabTrigger>col-auto</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

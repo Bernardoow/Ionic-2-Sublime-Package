@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[align-items-baseline]]></content>
+	<tabTrigger>align-items-baseline</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

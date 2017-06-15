@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[col-lg-]]></content>
+	<tabTrigger>col-lg-</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
