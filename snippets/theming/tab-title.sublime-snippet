@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[tabTitle]]></content>
+	<tabTrigger>tab-title</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

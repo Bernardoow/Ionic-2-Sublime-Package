@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[round]]></content>
+	<tabTrigger>round</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[cancelText]]></content>
+	<tabTrigger>cancel-text</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

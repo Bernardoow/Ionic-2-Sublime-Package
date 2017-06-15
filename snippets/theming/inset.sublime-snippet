@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[inset]]></content>
+	<tabTrigger>inset</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

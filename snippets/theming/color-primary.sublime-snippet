@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[color="primary"]]></content>
+	<tabTrigger>color-primary</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

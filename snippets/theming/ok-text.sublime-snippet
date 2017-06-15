@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[okText]]></content>
+	<tabTrigger>ok-text</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

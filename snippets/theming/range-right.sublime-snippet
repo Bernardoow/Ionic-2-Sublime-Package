@@ -1,0 +1,7 @@
+
+<snippet>
+	<content><![CDATA[range-right]]></content>
+	<tabTrigger>range-right</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
+

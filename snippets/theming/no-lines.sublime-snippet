@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[no-lines]]></content>
+	<tabTrigger>no-lines</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[outline]]></content>
+	<tabTrigger>outline</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

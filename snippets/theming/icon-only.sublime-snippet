@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[icon-only]]></content>
+	<tabTrigger>icon-only</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

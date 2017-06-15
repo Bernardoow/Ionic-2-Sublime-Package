@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[clear]]></content>
+	<tabTrigger>clear</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

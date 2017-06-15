@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ion-button]]></content>
+	<tabTrigger>ion-button</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

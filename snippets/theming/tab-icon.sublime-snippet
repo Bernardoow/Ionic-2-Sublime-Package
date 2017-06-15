@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[tabIcon]]></content>
+	<tabTrigger>tab-icon</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
