@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[text-nowrap]]></content>
+	<tabTrigger>text-nowrap</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
