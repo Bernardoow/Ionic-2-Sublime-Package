@@ -1,0 +1,5 @@
+IONIC 2
+
+Packages with snippets for components and themings for Ionic 2 or higher.
+
+Enjoy!!!
