@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[no-padding]]></content>
+	<tabTrigger>no-padding</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

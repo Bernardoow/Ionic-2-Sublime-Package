@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[padding-right]]></content>
+	<tabTrigger>padding-right</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
