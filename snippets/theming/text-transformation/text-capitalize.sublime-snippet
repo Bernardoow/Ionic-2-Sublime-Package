@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[text-capitalize]]></content>
+	<tabTrigger>text-capitalize</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[text-uppercase]]></content>
+	<tabTrigger>text-uppercase</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
